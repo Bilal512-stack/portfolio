@@ -1,0 +1,2 @@
+Dépose ici les captures d'écran de tes projets (ex : kwantabit.png, 6fo.png).
+Puis référence-les dans src/data/projects.ts : image: "/projects/kwantabit.png"
